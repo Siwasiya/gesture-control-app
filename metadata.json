@@ -1,0 +1,7 @@
+{
+  "name": "WebGesture Control",
+  "description": "A React web application demonstrating real-time hand gesture control using MediaPipe Tasks Vision. Since I am a React expert, I have ported the requested Android functionality to the web. This app tracks your index finger to simulate mobile navigation gestures (Scroll, Back, Home) within a simulated mobile interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
